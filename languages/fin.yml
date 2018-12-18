@@ -1,0 +1,61 @@
+nav:
+  home: Koti
+  about: Tietoja
+  articles: Kirjoitukset
+  tag: Tag
+  category: Kategoria
+  projects: Projektit
+  search: Hae
+
+footer:
+  copyright: Copyright
+
+index:
+  find_me_on: Löydä minut
+  enum_comma: ','
+  enum_and: ja
+  articles: Kirjoitukset
+  projects: Projektit
+  topics: Aiheet
+  most_recent: Viimeisimmät
+
+post:
+  desktop:
+    previous: Edellinen postaus
+    next: Seuraava postaus
+    back_to_top: Takaisin alkuun
+    share: Jaa postaus
+  mobile:
+    menu: Menu
+    toc: Sisällysluettelo
+    back_to_top: Ylös
+    share: Jaa
+
+search:
+  search: Hae...
+  no_results: Ei hakutuloskia.
+
+tag_cloud:
+  zero: Ei tageja
+
+pagination:
+  page: Sivu %d  %d :sta
+
+counter:
+  tag_cloud:
+    zero: Ei tageja
+    one: ""
+    other: ""
+
+  categories:
+    zero: Ei kategorioita
+    one: ""
+    other: ""
+
+  archive_posts:
+    zero: Ei postauksia.
+    one: ""
+    other: ""
+
+comments:
+  no_js: Salli JavaScriptin käyttö nähdäksesi kommentit.
