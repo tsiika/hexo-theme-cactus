@@ -33,7 +33,7 @@ post:
 
 search:
   search: Hae...
-  no_results: Ei hakutuloskia.
+  no_results: Ei hakutuloksia.
 
 tag_cloud:
   zero: Ei tageja
